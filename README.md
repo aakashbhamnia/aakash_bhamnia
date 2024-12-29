@@ -9,7 +9,6 @@ aakashbhamnia
 ### 🌱 I’m currently learning
 - Advanced React and Node.js
 - Machine Learning and AI
-- Kubernetes and Helm charts
 
 ### 🤝 Leadership
 - I’ve led several projects under Technobyte from March 2022 to December 2023.
